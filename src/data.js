@@ -19,7 +19,7 @@ export const projects = [
     description:
       "A to-do list creator application used to keep track of upcoming tasks or reminders.",
     image: tasks,
-    link: "https://reactbootcamp.com",
+    link: "https://tasks-rtfdpouxeq-el.a.run.app/",
   },
   {
     title: "Commerce",
