@@ -4,6 +4,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Poppins&display=swap');
 
+html{scroll-behavior:smooth}
+
 body {
     font-family: 'Poppins', sans-serif;
 }
