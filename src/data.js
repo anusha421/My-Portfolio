@@ -27,7 +27,7 @@ export const projects = [
     description:
       "A to-do list creator application used to keep track of upcoming tasks or reminders.",
     image: tasks,
-    link: "https://tasks-rtfdpouxeq-el.a.run.app/",
+    link: "https://tasks-2hf2.onrender.com",
   },
   {
     title: "Commerce",
