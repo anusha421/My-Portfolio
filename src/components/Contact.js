@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <footer className="h-[20%] w-auto bg-slate-800 text-center text-gray-300 p-2 mt-10">
       <div>
-        <h3>Copyright &#169; Anusha Sharma 2023</h3>
+        <h3>Copyright &#169; Anusha Sharma 2024</h3>
 
         <a
           href="https://github.com/anusha421"
